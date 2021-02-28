@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"EPS",
+				"EPSILON_A"
+			],
+			[
+				"unordered",
+				"unordered_set"
+			],
+			[
+				"EPSILON",
+				"EPSILON_D"
+			],
+			[
+				"star",
+				"star_angles_"
+			],
+			[
+				"unorder",
+				"unordered_multiset"
+			],
+			[
+				"line",
+				"line_stars_"
+			],
+			[
+				"unored",
+				"unordered_set"
+			],
+			[
+				"found",
+				"found_stars"
+			],
+			[
+				"unordere",
+				"unordered_set"
+			],
+			[
+				"unord",
+				"unordered_set\tstandard header (since c++11)"
+			],
+			[
+				"E",
+				"EPSILON_A"
+			],
+			[
+				"set",
+				"setprecision"
+			],
+			[
+				"name_",
+				"name_changes"
+			],
+			[
+				"name",
+				"name_changes"
+			],
+			[
+				"constellat",
+				"constellations"
+			],
+			[
+				"man",
+				"magnitude_"
+			],
+			[
+				"Re",
+				"ReCalculateEdges"
+			],
+			[
+				"prio",
+				"priority_queue"
+			],
+			[
+				"getPri",
+				"getPriorityValue"
+			],
+			[
+				"edge",
+				"edges_to_check"
+			],
+			[
+				"Remov",
+				"RemoveEdge"
+			],
+			[
+				"Remove",
+				"RemoveEdge"
+			],
+			[
+				"Collec",
+				"CollectEdgesWithVertex"
+			],
+			[
+				"num_",
+				"num_solns"
+			],
+			[
+				"getStart",
+				"getStartRow"
+			],
+			[
+				"end",
+				"endpoints"
+			],
+			[
+				"blocked",
+				"blocked_grid"
+			],
+			[
+				"blocke",
+				"blocked_grid"
+			],
+			[
+				"ingr",
+				"ingredients"
+			],
+			[
+				"ingred",
+				"ingredients_"
+			],
+			[
+				"remove",
+				"removeElement"
+			],
+			[
+				"num",
+				"numBins"
+			],
+			[
+				"remov",
+				"removeElement"
+			],
+			[
+				"add",
+				"addElement"
+			],
+			[
+				"unpacked",
+				"unpacked_values"
+			],
+			[
+				"dele",
+				"delete_packed"
+			],
+			[
+				"delete",
+				"delete_unpacked"
+			],
+			[
+				"numElemen",
+				"numElementsInBin"
+			],
+			[
+				"get",
+				"getSecond"
+			],
+			[
+				"dia",
+				"dia_top_r"
+			],
+			[
+				"full",
+				"fully_space"
+			],
+			[
+				"get_v",
+				"get_v_team"
+			],
+			[
+				"convert",
+				"convert_to_int"
+			],
+			[
+				"conver",
+				"convert_to_int"
+			],
+			[
+				"conv",
+				"convert_to_int"
+			],
+			[
+				"print_",
+				"print_coords"
+			],
+			[
+				"std",
+				"stdlib.h\tstandard header (deprecated)"
+			],
+			[
+				"calib",
+				"calibrate_accelerometer"
+			],
+			[
+				"thresh",
+				"thresh_limit"
+			],
+			[
+				"thres",
+				"thresh_limit"
+			],
+			[
+				"thre",
+				"thresh_limit"
+			],
+			[
+				"error",
+				"error_sum"
+			],
+			[
+				"MOTOR_PW",
+				"MOTOR_PW_CENTER"
+			],
+			[
+				"MOTOR",
+				"MOTOR_PW_CENTER"
+			],
+			[
+				"MOT",
+				"MOTOR_PW_MIN"
+			],
+			[
+				"MOTOR_",
+				"MOTOR_PW_MIN"
+			],
+			[
+				"MOTO",
+				"MOTOR_PW_MAX"
+			],
+			[
+				"Set_",
+				"Set_Servo_Pulsewidth"
+			],
+			[
+				"SERVO_PW",
+				"SERVO_PW_CENTER"
+			],
+			[
+				"ANGLE",
+				"ANGLE_PW_HORIZ"
+			],
+			[
+				"SET",
+				"Set_Servo_Pulsewidth"
+			],
+			[
+				"SERV",
+				"SERVO_PW_CENTER"
+			],
+			[
+				"SER",
+				"SERVO_PW_CENTER"
+			],
+			[
+				"new",
+				"new_voltage"
+			],
+			[
+				"servo",
+				"servo_calibrating"
+			],
+			[
+				"desired",
+				"desired_heading"
+			],
+			[
+				"ranger",
+				"ranger_gain"
+			],
+			[
+				"keyp",
+				"keypad_input"
+			],
+			[
+				"calibrate",
+				"calibrate_motor"
+			],
+			[
+				"Read",
+				"ReadRanger"
+			],
+			[
+				"read",
+				"read_keypad"
+			],
+			[
+				"Set",
+				"Set_Motor_Pulsewidth"
+			],
+			[
+				"SMB",
+				"SMB0_Init"
+			],
+			[
+				"blink",
+				"blink_pause"
+			],
+			[
+				"test_arra",
+				"test_arrayasarg"
+			],
+			[
+				"turn",
+				"turn_off_LEDs"
+			],
+			[
+				"mode",
+				"mode_2"
+			],
+			[
+				"fla",
+				"flash_LEDs"
+			],
+			[
+				"start",
+				"start_timer"
+			],
+			[
+				"random",
+				"randomfreq"
+			],
+			[
+				"turn_off_",
+				"turn_off_BILED"
+			],
+			[
+				"turn_off",
+				"turn_off_LEDs"
+			],
+			[
+				"global",
+				"global_test"
+			],
+			[
+				"MA",
+				"MAX_LEN"
+			],
+			[
+				"rme",
+				"remove_dic_entry"
+			],
+			[
+				"find_fa",
+				"find_factors2"
+			],
+			[
+				"gcd",
+				"gcd_iter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"build with",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"buil",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 269.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/zlorr/Box Sync/Documents/Senior Year/zachs_website"
+	],
+	"file_history":
+	[
+		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/stars.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/star.h",
+		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/star.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/sky.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/constellation.h",
+		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/constellation.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/README.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_Z_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/filelist.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Hydrus.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_Y.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/B.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_Y_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/plot_stars.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Ursa_Minor.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/sky.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_Y_output_new.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/working127/sky.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/H.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/plot_stars",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Vela.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_B.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Ursa_Major.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_B_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Ursa_Minor_new.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_G_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_G.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/graveyard.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/sky.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/B2.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/A.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_A.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Ursa_Major_new.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/G.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/constellation.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Orion_new.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_H.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_A_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/working3/stars.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/spatial/constellation.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/spatial/star.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/spatial/stars.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/spatial/sky.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/spatial/star.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/spatial/sky.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/spatial/constellation.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Ursa_Major.html",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/ignore.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/star.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/stars.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/Orion.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/test_unknown_A.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/test_unknown_B.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/angles.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/plot.out",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/n_unknown_A.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/star.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/example_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/n_test_example_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/example_output.html",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/example_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/example_input.html",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_C.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/unknown_C.html",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/test_example_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/example_stdout.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/test_example_stdout.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/README.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/star_hash.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw10/example.html",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/heapsort",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/README.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/mesh.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/mesh_final.html",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/image.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/image.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/edge.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/output.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/priority_queue.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/misc.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/graveyard.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/mesh.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/sunflowers.ppm",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/deer.ppm",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw9/triangle.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw5/essay.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw5/essay.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/lab/lab9/ds_set.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/med_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/med_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/complex_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/complex_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/empty_lib_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/empty_patrons_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/diagram.png",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/empty_patrons_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/add_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/add_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/duplicate_patrons_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/main.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/README.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/return_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/return_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/many_copies_patrons_input.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/many_copies_patrons_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/empty_lib_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/test_med_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/test_output.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/patron.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw7/library.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/misc.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/color.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/provided_grid.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/provided_grid.h",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/provided_main.cpp",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/README.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/README_contest.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/out_new_benchmark.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/new_benchmark.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/puzzle_discord.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/out_puzzle_2_one_color_C.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/out_puzzle_2_one_color_B.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/out_puzzle_1_one_color_B.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/puzzle_9x9_mania.txt",
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/puzzle_9x9.txt"
+	],
+	"find":
+	{
+		"height": 40.6666666667
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/CPP_TERMINAL.sublime-build",
+	"project": "zachs_website.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
