@@ -2,42 +2,78 @@ h1 {
 	font-family: Courier;
 	font-weight: bold;
 	font-size: 50px;
-	text-align: center;
+	text-align: left;
 	border: 5px solid black;
+	padding: 10px 15px;
 	margin: 5px;
+	min-width: 550px;
 }
 
 h2 {
 	font-family: Courier;
+	font-size: 30px;
 	font-weight: bold;
-	background-color: black;
-	color: white;
-	padding: 10px;
+	text-decoration: underline;
+	margin: 5px;
 }
 
 section {
 	font-family: Helvetica;
-	border: 5px solid none;
 	margin: 5px;
-	padding: 20px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding: 5px 20px;
 }
 
+footer {
+	font-family: Courier;
+	text-align: center;
+}
+
+/* ================ Navigation Button Styles ============== */
 nav {
 	background-color: black;
 	height: 30px;
-	text-align: center;
-	padding-top: 15px;
+	text-align: left;
+	padding: 15px 15px 5px 15px;
 	margin: 5px;
+	min-width: 550px;
 }
 
 .navbutton {
 	font-family: Courier;
-	font-weight: bold;
 	color: white;
+	height: 30px;
+	padding: 7px;
 }
 
-footer {
-	text-align: center;
+.navbutton:hover {
+	color: black;
+	background: white;
+}
+
+.navbutton:link {
+	text-decoration: none;
+}
+
+body.about header nav #about {
+  font-weight: bold;
+}
+
+body.education header nav #education {
+	font-weight: bold;
+}
+
+body.experience header nav #experience {
+	font-weight: bold;
+}
+
+body.skills header nav #skills {
+	font-weight: bold;
+}
+
+body.projects header nav #projects {
+	font-weight: bold;
+}
+
+body.contact header nav #contact {
+	font-weight:bold;
 }
