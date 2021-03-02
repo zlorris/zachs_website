@@ -355,6 +355,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "homepage.html",
+			"settings":
+			{
+				"buffer_size": 9823,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 67,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -429,10 +447,14 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/zlorr/Box Sync/Documents/Senior Year/zachs_website"
+		"/C/Users/zlorr/Box Sync/Documents/Senior Year/zachs_website",
+		"/C/Users/zlorr/Box Sync/Documents/Senior Year/zachs_website/stylesheets"
 	],
 	"file_history":
 	[
+		"/C/Users/zlorr/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/C/Users/zlorr/Box Sync/Documents/Senior Year/zachs_website/README.md",
+		"/C/Users/zlorr/Box Sync/Documents/Senior Year/zachs_website/.gitattributes",
 		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/stars.cpp",
 		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/star.h",
 		"/C/Users/zlorr/Box Sync/Documents/Sophomore Year/Fall Semester/Data Structures/DS/hw/hw10/star.cpp",
@@ -557,10 +579,7 @@
 		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/new_benchmark.txt",
 		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/puzzle_discord.txt",
 		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/out_puzzle_2_one_color_C.txt",
-		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/out_puzzle_2_one_color_B.txt",
-		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/out_puzzle_1_one_color_B.txt",
-		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/puzzle_9x9_mania.txt",
-		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/puzzle_9x9.txt"
+		"/C/Users/zlorr/Box Sync/Documents/DS/hw/hw6/out_puzzle_2_one_color_B.txt"
 	],
 	"find":
 	{
@@ -595,8 +614,86 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "homepage.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							],
+							[
+								1853,
+								1853
+							],
+							[
+								3957,
+								3957
+							],
+							[
+								4553,
+								4553
+							],
+							[
+								5699,
+								5699
+							],
+							[
+								9596,
+								9596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stylesheets/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],

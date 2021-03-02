@@ -1,7 +1,43 @@
 h1 {
 	font-family: Courier;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	border: 5px solid black;
+	margin: 5px;
+}
+
+h2 {
+	font-family: Courier;
+	font-weight: bold;
+	background-color: black;
+	color: white;
+	padding: 10px;
 }
 
 section {
 	font-family: Helvetica;
+	border: 5px solid none;
+	margin: 5px;
+	padding: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+nav {
+	background-color: black;
+	height: 30px;
+	text-align: center;
+	padding-top: 15px;
+	margin: 5px;
+}
+
+.navbutton {
+	font-family: Courier;
+	font-weight: bold;
+	color: white;
+}
+
+footer {
+	text-align: center;
 }
