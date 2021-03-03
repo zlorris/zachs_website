@@ -1,0 +1,49 @@
+/* ================ Navigation Button Styles ============== */
+nav {
+	background-color: black;
+	height: 30px;
+	text-align: left;
+	padding: 15px 15px 5px 15px;
+	margin: 5px;
+	min-width: 550px;
+}
+
+.navbutton {
+	font-family: Courier;
+	color: white;
+	height: 30px;
+	padding: 7px;
+}
+
+.navbutton:hover {
+	color: black;
+	background: white;
+}
+
+.navbutton:link {
+	text-decoration: none;
+}
+
+body.about header nav #about {
+  font-weight: bold;
+}
+
+body.education header nav #education {
+	font-weight: bold;
+}
+
+body.experience header nav #experience {
+	font-weight: bold;
+}
+
+body.skills header nav #skills {
+	font-weight: bold;
+}
+
+body.projects header nav #projects {
+	font-weight: bold;
+}
+
+body.contact header nav #contact {
+	font-weight:bold;
+}

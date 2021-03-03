@@ -1,3 +1,4 @@
+/* ============= Other Styles =========== */
 h1 {
 	font-family: Courier;
 	font-weight: bold;
@@ -26,54 +27,45 @@ section {
 footer {
 	font-family: Courier;
 	text-align: center;
-}
-
-/* ================ Navigation Button Styles ============== */
-nav {
 	background-color: black;
-	height: 30px;
-	text-align: left;
-	padding: 15px 15px 5px 15px;
-	margin: 5px;
-	min-width: 550px;
-}
-
-.navbutton {
-	font-family: Courier;
 	color: white;
-	height: 30px;
-	padding: 7px;
+	padding: 10px;
+	margin: 10px 5px;
+	min-width: 550px;
+	float: bottom;
+	clear: both;
 }
 
-.navbutton:hover {
-	color: black;
-	background: white;
+figure {
+	text-align: center;
+	font-style: italic;
 }
 
-.navbutton:link {
-	text-decoration: none;
+a {
+	color: blue;
 }
 
-body.about header nav #about {
-  font-weight: bold;
+img {
+	border: 3px solid black;
 }
 
-body.education header nav #education {
-	font-weight: bold;
+.split {
+	height: 100%;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 5px;
 }
 
-body.experience header nav #experience {
-	font-weight: bold;
+.left_half {
+	width: 50%;
+	float: left;
 }
 
-body.skills header nav #skills {
-	font-weight: bold;
+.right_half {
+	width: 50%;
+	float: right;
 }
 
-body.projects header nav #projects {
-	font-weight: bold;
-}
-
-body.contact header nav #contact {
-	font-weight:bold;
+.pad_li {
+	padding: 5px 0px;
 }
