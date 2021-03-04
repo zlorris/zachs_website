@@ -1,0 +1,18 @@
+/* ============== Media Styles ================= */
+
+figcaption {
+	text-align: center;
+	font-style: italic;
+}
+
+.center {
+	text-align: center;
+}
+
+a {
+	color: blue;
+}
+
+img, video {
+	display: inline-block;
+}

@@ -4,6 +4,9 @@
 	<title>Zach Orris - Projects</title>
 	<link href="stylesheets/style.css" type="text/css" rel="stylesheet">
 	<link href="stylesheets/nav.css" type="text/css" rel="stylesheet">
+	<link href="stylesheets/header.css" type="text/css" rel="stylesheet">
+	<link href="stylesheets/media.css" type="text/css" rel="stylesheet">
+	<link href="stylesheets/geometric.css" type="text/css" rel="stylesheet">
 </head>
 <body class="projects">
 
@@ -29,64 +32,77 @@
 	<main>
 		<section id="projects">
 			<h2>Projects</h2>
-			<h3>Smart Car</h3>
-				<figure>
-					<video src="images/img_2055.mov" height="400" width="300" controls>Ultrasonic Ranger Lab</video>
-					<video src="images/img_2063.mov" height="400" width="300" controls>Accelerometer Lab</video>
-				</figure>
-				<p>
-					This project was completed in ENGR 2350 - Embedded Control in Spring 2019. This is a laboratory-based
-					course which focuses on developing the hardware and software needed to control a smart car in its
-					environment. The <a href="https://en.wikipedia.org/wiki/C8051">SiLabs C8051 microcontroller</a> was
-					used to process data from several embedded hardware components (accelerometer, ultrasonic ranger, compass,
-					keypad, LCD screen, pushbuttons, switches, etc.) and control the car's drive motor and steering servo
-					accordingly.
-				</p>
-				<p>
-					For the duration of this course I was a part of a multidisciplinary team composed of an electrical
-					engineering student, a mechanical engineering student, and myself. I wrote most of the C code
-					for the microcontroller because I had the strongest software background. Our team succeeded in implementing
-					car functionality for several tasks, two of which are shown in the videos above. In the first video,
-					an ultrasonic ranger was used to control the heading of the car as it moved throughout the classroom. In
-					the second video, data from an accelerometer was used to turn and stop the car at a specific angle on
-					an incline. 
-				</p>
-			<h3>The Smart Fan</h3>
-				<figure>
-					<img src="images/smart_fan.jpg" height="300" width="200" alt="The Smart Fan">
-					<img src="images/circuit_diagram.png" height="350" width="600" alt="Circuit Diagram">
-					<img src="images/logic_diagram.png" height="500" width="350" alt="Logic Diagram">
-				</figure>
-				<p>
-					This project was completed in ENGR 2050 - Intro to Engineering Design in Spring 2020. This course focuses
-					on familiarizing students with the engineering design process through the semester-long development of a
-					product chosen by their team. Technical evaluations, presentations, and reports are used to strengthen
-					engineering and professional skills.
-				</p>
-				<p>
-					I was a part of a multidisciplinary team composed of an aeronautical engineering student, civil engineering
-					student, mechannical engineering student, computer science student, and myself. Our team came up with a
-					product called The Smart Fan which uses computer vision to direct air flow towards the user as they move
-					throughout their environment to promote cooling efficiency. Each team member was assigned to a subsystem
-					which best fit their background. 
-				</p>
-				<p>
-					I was assigned to the microprocessor subsystem, whose purpose was to interpret signals from the human
-					detection system and external buttons/switches to control the DC motor for the fan blades and servo
-					motor for the fan heading. I used an Arduino UNO as the microcontroller for the subsystem. The
-					<a href="https://www.ti.com/lit/ds/symlink/l293.pdf">L239D</a> was used to control both motors. Two
-					potentiometers were used to incrementally adjust fan speed and fan heading. The Smart Fan was designed
-					to have 3 rotation modes: human detection, oscillation, and stationary. In human detection mode, the
-					fan tracks the user as they move. However, to save power, the fan automatically turns off if the user
-					is not seen for one minute. It can only be woken with one of the pushbuttons. In oscillation mode, the
-					fan rotates back and forth on 180 degree intervals as a normal fan. In stationary mode, the fan
-					simply remains still. A circuit and logic diagram for the microprocessor system are shown above.
-				</p>
+			<ul>
+				<li>
+					<h3>Smart Car</h3>
+						<figure>
+							<video src="images/img_2055.mov" height="400" width="300" controls>Ultrasonic Ranger Lab</video>
+							<video src="images/img_2063.mov" height="400" width="300" controls>Accelerometer Lab</video>
+						</figure>
+						<p>
+							This project was completed in ENGR 2350 - Embedded Control in Spring 2019. This is a laboratory-based
+							course which focuses on developing the hardware and software needed to control a smart car in its
+							environment. The <a href="https://en.wikipedia.org/wiki/C8051">SiLabs C8051 microcontroller</a> was
+							used to process data from several embedded hardware components (accelerometer, ultrasonic ranger, compass,
+							keypad, LCD screen, pushbuttons, switches, etc.) and control the car's drive motor and steering servo
+							accordingly.
+						</p>
+						<p>
+							For the duration of this course I was a part of a multidisciplinary team composed of an electrical
+							engineering student, a mechanical engineering student, and myself. I wrote most of the C code
+							for the microcontroller because I had the strongest software background. Our team succeeded in implementing
+							car functionality for several tasks, two of which are shown in the videos above. In the first video,
+							an ultrasonic ranger was used to control the heading of the car as it moved throughout the classroom. In
+							the second video, data from an accelerometer was used to turn and stop the car at a specific angle on
+							an incline. 
+						</p>
+				</li>
+
+				<li>
+					<h3>The Smart Fan</h3>
+						<figure>
+							<a href="images/smart_fan.jpg">
+								<img src="images/smart_fan.jpg" height="300" width="200" alt="The Smart Fan">
+							</a>
+							<a href="images/circuit_diagram.png">
+								<img src="images/circuit_diagram.png" height="300" width="550" alt="Circuit Diagram">
+							</a>
+							<a href="images/logic_diagram.png">
+								<img src="images/logic_diagram.png" height="450" width="300" alt="Logic Diagram">
+							</a>
+						</figure>
+						<p>
+							This project was completed in ENGR 2050 - Intro to Engineering Design in Spring 2020. This course focuses
+							on familiarizing students with the engineering design process through the semester-long development of a
+							product chosen by their team. Technical evaluations, presentations, and reports are used to strengthen
+							engineering and professional skills.
+						</p>
+						<p>
+							I was a part of a multidisciplinary team composed of an aeronautical engineering student, civil engineering
+							student, mechannical engineering student, computer science student, and myself. Our team came up with a
+							product called The Smart Fan which uses computer vision to direct air flow towards the user as they move
+							throughout their environment to promote cooling efficiency. Each team member was assigned to a subsystem
+							which best fit their background. 
+						</p>
+						<p>
+							I was assigned to the microprocessor subsystem, whose purpose was to interpret signals from the human
+							detection system and external buttons/switches to control the DC motor for the fan blades and servo
+							motor for the fan heading. I used an Arduino UNO as the microcontroller for the subsystem. The
+							<a href="https://www.ti.com/lit/ds/symlink/l293.pdf">L239D</a> was used to control both motors. Two
+							potentiometers were used to incrementally adjust fan speed and fan heading. The Smart Fan was designed
+							to have 3 rotation modes: human detection, oscillation, and stationary. In human detection mode, the
+							fan tracks the user as they move. However, to save power, the fan automatically turns off if the user
+							is not seen for one minute. It can only be woken with one of the pushbuttons. In oscillation mode, the
+							fan rotates back and forth on 180 degree intervals as a normal fan. In stationary mode, the fan
+							simply remains still. A circuit and logic diagram for the microprocessor system are shown above.
+						</p>
+				</li>
+
 		</section>
 	</main>
 
 	<footer>
-		<strong><i>This page is still under construction!</i></strong>
+		Copyright &copy; 2021 Zach Orris | <strong><i>This page is still under construction!</i></strong>
 	</footer>
 
 </body>

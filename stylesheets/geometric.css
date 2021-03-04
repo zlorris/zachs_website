@@ -1,0 +1,33 @@
+/* ============= Geometric Partitions ============ */
+
+.split {
+	height: 100%;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.left_half {
+	width: 50%;
+	float: left;
+}
+
+.right_half {
+	width: 50%;
+	float: right;
+}
+
+.left_tri {
+	width: 33%;
+	float: left;
+}
+
+.middle_tri {
+	width: 33%;
+	float: middle;
+}
+
+.right_tri {
+	width: 33%;
+	float: right;
+}

@@ -1,28 +1,4 @@
-/* ============= Header ============= */
-
-h1 {
-	margin: 5px;
-	min-width: 550px;
-	border-bottom: 5px solid black;
-	border-top: 5px solid black;
-}
-
-#profile {
-	display: inline-block;
-	padding: 15px 0px 0px 0px;
-}
-
-#title {
-	display: inline-block;
-	align-content: middle;
-	font-family: Courier;
-	font-weight: bold;
-	font-size: 50px;
-	text-align: left;
-	padding: 15px 0px 0px 15px;
-}
-
-/* =========== Other Styles ============ */
+/* ================= Styles ================ */
 
 h2 {
 	font-family: Courier;
@@ -30,6 +6,10 @@ h2 {
 	font-weight: bold;
 	text-decoration: underline;
 	margin: 5px;
+}
+
+main {
+	min-height: 345px;
 }
 
 section {
@@ -41,6 +21,7 @@ section {
 footer {
 	font-family: Courier;
 	text-align: center;
+	font-size: 14px;
 	background-color: black;
 	color: white;
 	padding: 10px;
@@ -48,55 +29,4 @@ footer {
 	min-width: 550px;
 	float: bottom;
 	clear: both;
-}
-
-figure {
-	text-align: center;
-	font-style: italic;
-}
-
-a {
-	color: blue;
-}
-
-img, video {
-	display: inline-block;
-}
-
-main {
-	min-height: 345px;
-}
-
-/* ============= Geometric Partitions ============ */
-
-.split {
-	height: 100%;
-	display: inline-block;
-	box-sizing: border-box;
-	padding: 5px;
-}
-
-.left_half {
-	width: 50%;
-	float: left;
-}
-
-.right_half {
-	width: 50%;
-	float: right;
-}
-
-.left_tri {
-	width: 33%;
-	float: left;
-}
-
-.middle_tri {
-	width: 33%;
-	float: middle;
-}
-
-.right_tri {
-	width: 33%;
-	float: right;
 }
