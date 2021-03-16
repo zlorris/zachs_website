@@ -1,11 +1,12 @@
 window.onload = function() {
+
+  displayMode();
+
 	// set the height of main tag using screen size
 	const height = screen.availHeight;
   const collect = document.getElementsByTagName("main");
 
   collect[0].style.minHeight = height/2 + "px";
-
-  displayMode();
 }
 
 const updateMode = function () {
@@ -28,7 +29,9 @@ const displayMode = function() {
 		document.getElementById("githubpic").src = "images/github_dark.png";
 		document.getElementById("linkedinpic").src = "images/linkedin_dark.png";
 		document.getElementById("hspic").src = "images/handshake_dark.png";
-	} else {
+	}
+	
+	else {
 		document.getElementsByTagName("h1")[0].classList.remove("header-dark");
 		document.getElementsByTagName("body")[0].classList.remove("body-dark");
 		document.getElementsByTagName("main")[0].classList.remove("main-dark");
