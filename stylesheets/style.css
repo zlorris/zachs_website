@@ -9,7 +9,7 @@ h2 {
 }
 
 main {
-	min-height: 345px;
+	min-height: 350px;
 }
 
 section {
@@ -29,4 +29,12 @@ footer {
 	min-width: 550px;
 	float: bottom;
 	clear: both;
+}
+
+.body-dark {
+	background-color: black;
+}
+
+.main-dark {
+	color: white;
 }
