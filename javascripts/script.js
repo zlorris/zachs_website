@@ -1,12 +1,5 @@
 window.onload = function() {
-
   displayMode();
-
-	// set the height of main tag using screen size
-	const height = screen.availHeight;
-  const collect = document.getElementsByTagName("main");
-
-  collect[0].style.minHeight = height/2 + "px";
 }
 
 const updateMode = function () {

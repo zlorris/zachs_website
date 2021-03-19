@@ -8,8 +8,10 @@ h2 {
 	margin: 5px;
 }
 
-main {
-	min-height: 350px;
+body {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 
 section {
@@ -25,10 +27,11 @@ footer {
 	background-color: black;
 	color: white;
 	padding: 10px;
-	margin: 10px 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: auto;
+	margin-bottom: 5px;
 	min-width: 550px;
-	float: bottom;
-	clear: both;
 }
 
 .body-dark {
